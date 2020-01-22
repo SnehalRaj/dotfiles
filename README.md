@@ -2,5 +2,5 @@
 
 Contains the following dotfiles:
 
-.bashrc : My custom bashrc
-.zshrc : custom zshrc
+* .bashrc : My custom bashrc
+* .zshrc : custom zshrc
