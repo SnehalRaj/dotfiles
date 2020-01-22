@@ -3,4 +3,4 @@
 Contains the following dotfiles:
 
 * .bashrc : My custom bashrc
-* .zshrc : custom zshrc
+* .zshrc : My custom zshrc
